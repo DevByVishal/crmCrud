@@ -1,5 +1,5 @@
 {
-  "name": "DevByVishal/laravel-crm-generator",
+  "name": "DevByVishal/crmCrud",
   "description": "Laravel CRM CRUD generator with admin panel",
   "type": "library",
   "license": "MIT",
