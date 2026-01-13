@@ -1,0 +1,23 @@
+{
+  "name": "DevByVishal/laravel-crm-generator",
+  "description": "Laravel CRM CRUD generator with admin panel",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "YourName\\CrmGenerator\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^8.1",
+    "illuminate/support": "^10.0|^11.0"
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "YourName\\CrmGenerator\\CrmGeneratorServiceProvider"
+      ]
+    }
+  },
+  "minimum-stability": "stable"
+}
