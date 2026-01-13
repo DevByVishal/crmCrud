@@ -1,6 +1,6 @@
 <?php
 
-namespace YourName\CrmGenerator\Console;
+namespace DevByVishal\crmCrud\Console;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\File;
