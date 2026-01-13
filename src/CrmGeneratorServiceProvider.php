@@ -1,9 +1,9 @@
 <?php
 
-namespace YourName\CrmGenerator;
+namespace DevByVishal\crmCrud;
 
 use Illuminate\Support\ServiceProvider;
-use YourName\CrmGenerator\Console\MakeCrm;
+use DevByVishal\crmCrud\Console\MakeCrm;
 
 class CrmGeneratorServiceProvider extends ServiceProvider
 {

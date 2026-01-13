@@ -5,7 +5,7 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "DevByVishal\\crmCrud\\": "src/"
+      "DevByVishal\\CrmCrud\\": "src/"
     }
   },
   "require": {
@@ -15,7 +15,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "DevByVishal\\crmCrud\\CrmCrudServiceProvider"
+        "DevByVishal\\CrmCrud\\CrmCrudServiceProvider"
       ]
     }
   },
